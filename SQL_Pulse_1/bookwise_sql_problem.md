@@ -220,4 +220,4 @@ INSERT INTO books (book_id, author_id, genre, monthly_sales, page_count, languag
 
 ## Solutions
 
-For the solutions to these problems, please refer to the [BookWise Publishing - Solutions](sql_solutions) file.
+For the solutions to these problems, please refer to the [BookWise Publishing - Solutions](sql_solutions.md) file.
